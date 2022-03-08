@@ -1,0 +1,9 @@
+x=input()
+y=input()
+c=x+y
+print(c)
+
+output:
+sindhu
+ja
+sindhuja
